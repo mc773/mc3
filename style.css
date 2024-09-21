@@ -1,0 +1,35 @@
+*{
+    margin: 20px;
+    padding-left: 10px;
+}
+.b1{
+    background-color: plum;
+    color: white;
+    font-size: 500%;
+}
+.t1{
+    background-color: purple;
+    color: white;
+    font-size: 450%;
+    margin-top: 70px;
+}
+.t2{
+    background-color: purple;
+    color: white;
+    font-size: 450%;
+    margin-top: 120px;
+    width: 500px;
+}
+.b2{
+    background-color: rgb(68, 0, 255);
+    color: white;
+    font-size: 450%;
+    margin-top: 70px;
+    padding-bottom: 80px;
+}
+.b3{
+    background-color: rgb(68, 0, 255);
+    color: white;
+    font-size: 450%;
+  
+}
